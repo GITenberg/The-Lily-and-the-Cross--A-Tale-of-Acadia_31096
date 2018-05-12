@@ -1,0 +1,42 @@
+_repo: The-Lily-and-the-Cross--A-Tale-of-Acadia_31096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Mille, James
+    aliases:
+    - DeMille, James
+    - Mille, James de
+    birthdate: 1833
+    deathdate: 1880
+    gutenberg_agent_id: '1482'
+    url: http://www.gutenberg.org/2009/agents/1482
+    wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
+description: ''
+gutenberg_issued: '2010-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholics -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Trials -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Frigates -- Juvenile fiction'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcsh 'Clergy -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: 'The Lily and the Cross: A Tale of Acadia'
+url: http://www.gutenberg.org/ebooks/31096
